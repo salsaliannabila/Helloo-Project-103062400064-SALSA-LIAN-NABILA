@@ -42,6 +42,7 @@ func main() {
 	}
 }
 
+// MENAMBAHKAN KOMENTAR UNTUK TUGAS WGTIK
 func customerMode(scanner *bufio.Scanner) {
 	myCart := cart.Cart{}
 
